@@ -1,4 +1,4 @@
-# Ovary-Modeliing
+# Ovary-Modeling
 
 ##Goal of simulation
 1. Develop a simulation for large number of control follicles using assumptions about folliculogenesys from the literature
